@@ -1,5 +1,6 @@
 # Tools
 
+### strace_tool.sh
 find all of the syscalls used by a program
 ```bash
 #!/bin/bash
